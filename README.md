@@ -6,6 +6,7 @@ localhost:3000 de yere sunucu açılacaktır.
 Böylece web sitesine erşebilirsiniz.
 Eğer kayıt olursanız e-postanızı ve girdiğiniz bilgileri görebilirim. 
 Kayıt sayfasına aynı bilgileri girerseniz de güncelleme sayfasına yönlendirilirsiniz. 
-Heroku ücretsiz kısmını  kaldırdığından bu şekilde size sunuyorum.
+Bu oldukça basit sayılabilecek bir şey farkındayım. Her geçen gün yeni şeyler öğreniyorum ve
+yaptıklarım basit gelmeye başlıyor. Ancak yine de burada dursun...
 
 -İbrahim Durak
