@@ -8,9 +8,7 @@ const https = require("https");
 const md5 = require('md5');
 
 
-//Mailchimp API key aşağıda (kopyası yok)
-const myKey = "9074ee60bf5884f365d1d62c648412c1-us21";
-const unıqeList = "ca9cf5417e";
+//API keyler yerel dosyalarda saklı
 
 //app.use(express.static(path.join(__dirname ,"/public")));
 //app.use(express.static("public"));
